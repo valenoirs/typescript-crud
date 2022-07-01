@@ -1,2 +1,2 @@
 # Typescript CRUD
-Express MongoDB CRUD
+TypeScript - Node - Express - Mongo
